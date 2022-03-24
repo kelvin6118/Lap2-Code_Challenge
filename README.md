@@ -12,3 +12,7 @@ This is a full stack web application with an HTML/CSS/JS client and an Express s
 - docker setup
 - api and database function
 - endpoint for getting all post and by post id
+
+## Challenge
+- using hash to make unique path url for unique post
+- render post into client
